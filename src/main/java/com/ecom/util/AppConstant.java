@@ -6,5 +6,4 @@ public class AppConstant {
     //1 * 60 * 60 * 1000;
 
     public static final long ATTEMPT_TIME = 3;
-    
 }
