@@ -10,3 +10,28 @@
 .error {
 	color: red;
 }
+
+body.dark-mode {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+body.dark-mode .navbar,
+body.dark-mode .dropdown-menu,
+body.dark-mode .bg-primary {
+  background-color: #1f1f1f !important;
+}
+
+body.dark-mode .text-white {
+  color: #e0e0e0 !important;
+}
+
+body.dark-mode .card,
+body.dark-mode .form-control {
+  background-color: #2a2a2a !important;
+  color: #ffffff !important;
+}
+
+body.dark-mode a {
+  color: #90caf9;
+}
